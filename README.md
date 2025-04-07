@@ -16,6 +16,12 @@ FirstAid.AI is an advanced AI-driven chatbot designed to provide quick and accur
 5. Pinecone: Vector database for efficient storage and retrieval of large-scale medical knowledge.
 6. Hugging Face Transformers: Utilized for state-of-the-art language models to process and generate medical responses
 
+# Project Implementation
+![Screenshot 2025-04-07 200039](https://github.com/user-attachments/assets/933ea083-1c71-46e7-9964-c7a4b26b72f4)
+![Screenshot 2025-04-07 195922](https://github.com/user-attachments/assets/f3eb2f04-8b6a-4f3d-8ac0-a6a12ca44f9f)
+![Screenshot 2025-04-07 195902](https://github.com/user-attachments/assets/7fc91f0c-19bc-4486-b561-299cf1b38a60)
+
+
 # Prerequisites
 Python 3.8+,
  Git,
