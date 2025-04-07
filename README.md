@@ -10,7 +10,7 @@ FirstAid.AI is an advanced AI-driven platform designed to provide quick and accu
 
 # Technologies Used
 1. Natural Language Processing (NLP): Enables understanding and generation of human-like responses to medical queries.
-2. Generative AI Models: Models like Mistral-7B-Instruct, optimized for generating responses to medical inquiries.
+2. Groq’s LLM (Llama3-70B-8192): Utilized for generating high-quality, context-specific responses to medical queries.
 3. Retrieval-Augmented Generation (RAG): Combines document retrieval and generation for more context-aware and accurate answers.
 4. Flask: Used to build the user-facing web application for seamless interaction with the AI.
 5. Pinecone: Vector database for efficient storage and retrieval of large-scale medical knowledge.
