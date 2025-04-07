@@ -27,4 +27,4 @@ Python 3.8+,
 3. Interactive Web Interface: Users can interact with the chatbot through a simple and intuitive web interface built using Flask.
 
 # Future Enhancements
-Multimodal Support: Future versions will include voice recognition and image-based queries to expand the capabilities of the chatbot.
+Multimodal Support: Future versions will include image-based queries to expand the capabilities of the chatbot.
