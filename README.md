@@ -17,9 +17,9 @@ MediStation.AI is an advanced AI-driven chatbot designed to provide quick and ac
 6. Hugging Face Transformers: Utilized for state-of-the-art language models to process and generate medical responses
 
 # Project Implementation
-![Screenshot 2025-04-07 200039](https://github.com/user-attachments/assets/933ea083-1c71-46e7-9964-c7a4b26b72f4)
-![Screenshot 2025-04-07 195922](https://github.com/user-attachments/assets/f3eb2f04-8b6a-4f3d-8ac0-a6a12ca44f9f)
-![Screenshot 2025-04-07 195902](https://github.com/user-attachments/assets/7fc91f0c-19bc-4486-b561-299cf1b38a60)
+![Screenshot 2025-04-07 215402](https://github.com/user-attachments/assets/183c5548-be78-4e90-aa29-62f890d820c8)
+![Screenshot 2025-04-07 215101](https://github.com/user-attachments/assets/c3438770-b1c1-478f-bf13-c995f9a20cf4)
+![Screenshot 2025-04-07 215002](https://github.com/user-attachments/assets/29680400-90a2-4b5a-8dc8-afdf35762505)
 
 
 # Prerequisites
