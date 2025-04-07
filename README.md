@@ -1,5 +1,5 @@
 # FirstAid.AI
-FirstAid.AI is an advanced AI-driven platform designed to provide quick and accurate assistance for emergency medical situations. By integrating cutting-edge Natural Language Processing (NLP) and Machine Learning (ML) models with comprehensive medical knowledge, FirstAid.AI delivers reliable first aid information and emergency support at your fingertips. This tool assists both individuals and medical professionals by offering on-demand answers to health-related queries, symptom checks, and initial treatment recommendations.
+FirstAid.AI is an advanced AI-driven chatbot designed to provide quick and accurate assistance for emergency medical situations. By integrating cutting-edge Natural Language Processing (NLP) and Machine Learning (ML) models with comprehensive medical knowledge, FirstAid.AI delivers reliable first aid information and emergency support at your fingertips. This tool assists both individuals and medical professionals by offering on-demand answers to health-related queries, symptom checks, and initial treatment recommendations.
 
 # Features
 1. Instant First Aid Assistance: Provides immediate, accurate first aid information based on common health emergencies.
